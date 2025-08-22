@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com Qualidade de Software
-- 🌱 Estudando Java e automação de testes em APIs
+- 🌱 Formada e estudando Engenharia de software
 - 😄 Pronouns:ela/dela
 
 <div align="center">
